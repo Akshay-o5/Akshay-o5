@@ -2,11 +2,15 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Akshay+Nanotkar+%F0%9F%91%8B;Java+Developer+%7C+Backend+%26+Full+Stack;Learning+%7C+Building+%7C+Improving;Welcome+to+my+corner+of+GitHub+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:102A43,100:0077B6&height=3" width="100%"/>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0077B6&height=120&section=header" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=25&duration=3500&pause=1100&color=00D9FF&center=true&vCenter=true&repeat=true&width=850&height=80&lines=AKSHAY+NANOTKAR;Java+Developer+%7C+Spring+Boot;Backend+%26+Full+Stack+Development;Learning+%E2%80%A2+Building+%E2%80%A2+Evolving" alt="Akshay Nanotkar - Developer Introduction"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:102A43,100:0D1117&height=110&section=header" width="100%"/>
 
 </div>
 
@@ -14,167 +18,71 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Akshay Nanotkar** — a Computer Science graduate from Pune, India.
+Hi, I'm **Akshay Nanotkar**, a Computer Science graduate from Pune, India.
 
-I'm exploring the world of software development with a focus on **Java, Spring Boot, Backend Development, and Full Stack Development**.
+I'm exploring software development with a focus on **Java, Spring Boot, Backend Development, and Full Stack Development**.
 
-I enjoy learning by building things rather than just following tutorials. Every project gives me an opportunity to understand something better, solve a problem, and improve my way of writing code.
+I enjoy learning through practical implementation, understanding how things work behind the scenes, and continuously improving my development skills.
 
-> **Curious enough to explore.
-> Patient enough to learn.
-> Crazy enough to keep building. 🚀**
+> *Curious enough to explore. Patient enough to learn. Determined enough to keep building.* 🚀
 
 ---
 
 ## 🚀 What I'm Currently Doing
 
-* ☕ Strengthening my **Java & Spring Boot** skills
-* 🔧 Building practical development projects
-* 🌐 Exploring **Full Stack Development**
-* ⚛️ Learning **React**
-* 🗄️ Improving my **SQL & database** concepts
-* 🧠 Working on problem-solving and development fundamentals
-* 💼 Preparing for opportunities in **Java / Backend Development**
+* ☕ Strengthening my Java and Spring Boot skills
+* ⚙️ Exploring backend development and REST APIs
+* 🌐 Learning Full Stack Development
+* ⚛️ Exploring React
+* 🗄️ Improving SQL and database concepts
+* 🧠 Practicing problem-solving and programming fundamentals
+* 💼 Preparing for Java Developer / Backend Developer opportunities
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-<table>
-<tr>
-<td align="center" width="180">
+### 💻 Programming Languages
 
-<b>Languages</b>
+![Java, JavaScript](https://skillicons.dev/icons?i=java,js\&theme=dark)
 
-</td>
-<td>
+### 🎨 Frontend Development
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+![HTML, CSS, Bootstrap, React](https://skillicons.dev/icons?i=html,css,bootstrap,react\&theme=dark)
 
-</td>
-</tr>
+### ⚙️ Backend & Frameworks
 
-<tr>
-<td align="center">
+![Spring, Hibernate, Maven](https://skillicons.dev/icons?i=spring,hibernate,maven\&theme=dark)
 
-<b>Backend & Frameworks</b>
+**Additional Technologies**
 
-</td>
-<td>
+`JDBC` · `Servlets` · `JSP` · `Thymeleaf` · `REST APIs`
 
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
+### 🗄️ Databases
 
-</td>
-</tr>
+![MySQL, Oracle](https://skillicons.dev/icons?i=mysql,oracle\&theme=dark)
 
-<tr>
-<td align="center">
+**Database Concepts**
 
-<b>Frontend</b>
+`SQL` · `CRUD Operations` · `Joins` · `Subqueries`
 
-</td>
-<td>
+### 🔧 Tools & Platforms
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+![Git, GitHub, IntelliJ IDEA, Eclipse, Postman](https://skillicons.dev/icons?i=git,github,idea,eclipse,postman\&theme=dark)
 
-</td>
-</tr>
+### 🌱 Currently Learning
 
-<tr>
-<td align="center">
-
-<b>Databases</b>
-
-</td>
-<td>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<b>Tools & Platforms</b>
-
-</td>
-<td>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-
-</td>
-</tr>
-</table>
+`React` · `TypeScript`
 
 ---
 
-## 💻 Things I've Built
-
-### 🏥 Hospital Management System
-
-A desktop-based management application for handling hospital records and operations.
-
-**Built with:** `Java` `Swing` `JDBC` `MySQL`
-
----
-
-### ✍️ Blogging Application
-
-A Java-based web application focused on creating and managing blog content.
-
-**Built with:** `Spring Boot` `Hibernate` `Thymeleaf`
-
----
-
-### 🌐 Dynamic Business Website & Client-Side CMS
-
-A responsive business website with a client-side administration interface for managing courses, staff, testimonials, and leads.
-
-**Built with:** `HTML5` `CSS3` `JavaScript` `DOM` `LocalStorage` `JSON`
-
----
-
-### 📝 Java Notepad
-
-A desktop text editor built with Java Swing with common file and text-editing functionality.
-
-**Built with:** `Java` `Swing` `JFrame`
-
----
-
-### 🛍️ Myntra UI Clone
-
-A frontend practice project created to improve layout, styling, and JavaScript skills.
-
-**Built with:** `HTML` `CSS` `JavaScript`
-
----
-
-## 📊 GitHub Activity
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akshay-o5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Akshay-o5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true" height="165" alt="GitHub Statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-o5&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-o5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" height="165" alt="Most Used Languages"/>
 
 </div>
 
@@ -182,40 +90,59 @@ A frontend practice project created to improve layout, styling, and JavaScript s
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay-o5&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=Akshay-o5&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="75%" alt="GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 GitHub Contributions
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay-o5&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<a href="https://github.com/Akshay-o5">
+<img src="https://img.shields.io/badge/Explore%20My-GitHub%20Contributions-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="View GitHub Contributions"/>
+</a>
+
+<br><br>
+
+<i>Every commit is a step forward. Every project is a new lesson.</i>
 
 </div>
 
 ---
 
-## 🎯 My Current Direction
+## 🎯 My Development Roadmap
 
-```text
-Java
-  │
-  ├── Core Java
-  ├── Advanced Java
-  ├── JDBC
-  ├── Hibernate
-  │
-  └── Spring Boot
-          │
-          ├── REST APIs
-          ├── Backend Development
-          └── Full Stack Development
-                    │
-                    └── React → Learning
-```
+<div align="center">
+
+### ☕ Java Backend Development
+
+![Java, Spring, Hibernate, Maven](https://skillicons.dev/icons?i=java,spring,hibernate,maven\&theme=dark)
+
+**Core Java → Advanced Java → JDBC → Hibernate → Spring Boot**
+
+<br>
+
+### ⚙️ Backend Engineering
+
+`REST APIs`   `SQL`   `CRUD`   `Database Connectivity`
+
+<br>
+
+### 🌐 Full Stack Development
+
+![HTML, CSS, JavaScript, React](https://skillicons.dev/icons?i=html,css,js,react\&theme=dark)
+
+**Frontend Fundamentals → React → Full Stack Applications**
+
+<br>
+
+### 🚀 My Goal
+
+Building practical applications, improving problem-solving skills, and growing as a Java Backend Developer.
+
+</div>
 
 ---
 
@@ -224,22 +151,18 @@ Java
 <div align="center">
 
 <a href="https://github.com/Akshay-o5">
-<img src="https://img.shields.io/badge/GitHub-Akshay--o5-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/akshay-nanotkar-javadeveloper/">
-<img src="https://img.shields.io/badge/LinkedIn-Akshay_Nanotkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:akshaynanotkar11@gmail.com">
-<img src="https://img.shields.io/badge/Email-akshaynanotkar11%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-161B22?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Email"/>
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 📍 **Pune, India**
 
@@ -247,24 +170,18 @@ Java
 
 ---
 
-## 👀 Profile Visitors
+<!-- ======================= FOOTER ======================= -->
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Akshay-o5&label=Profile%20Views&color=00D9FF&style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:102A43,100:0077B6&height=100&section=footer" width="100%"/>
 
 ### ☕ Learn. Build. Break. Fix. Repeat. 🚀
 
-<i>Not trying to know everything, just trying to know a little more than yesterday.</i>
+<sub>Not trying to know everything, just trying to know a little more than yesterday.</sub>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,100:00D9FF&height=100&section=footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=00D9FF&center=true&vCenter=true&width=450&height=35&lines=Thanks+for+visiting+my+profile!;Let's+build+something+meaningful." alt="Footer Animation"/>
 
 </div>
